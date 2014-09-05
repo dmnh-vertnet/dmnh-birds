@@ -1,0 +1,170 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 535
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 57
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-02 ; Times: 15
+	Date: 2014-08-03 ; Times: 3
+	Date: 2014-08-05 ; Times: 1
+	Date: 2014-08-07 ; Times: 1
+	Date: 2014-08-09 ; Times: 2
+	Date: 2014-08-10 ; Times: 2
+	Date: 2014-08-11 ; Times: 2
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-15 ; Times: 2
+	Date: 2014-08-16 ; Times: 1
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-21 ; Times: 5
+	Date: 2014-08-22 ; Times: 8
+	Date: 2014-08-23 ; Times: 1
+	Date: 2014-08-24 ; Times: 3
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 3
+	Date: 2014-08-27 ; Times: 11
+	Date: 2014-08-28 ; Times: 5
+	Date: 2014-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cardinalis cardinalis stateprovince:"Delaware" class:aves institutioncode:DMNH" ; Times: 1
+	Query: "DMNH 38372" ; Times: 2
+	Query: "country:"uganda" class:aves year >= 1906 year <= 1906" ; Times: 1
+	Query: "DMNH 70786" ; Times: 1
+	Query: "specificepithet:excelsior genus:cinclodes" ; Times: 1
+	Query: "centropus milo type:specimen" ; Times: 1
+	Query: "DMNH 13650" ; Times: 2
+	Query: "DMNH 13651" ; Times: 2
+	Query: "DMNH 10015" ; Times: 2
+	Query: "country:"costa rica" class:Aves year >= 1928 year <= 1928" ; Times: 2
+	Query: "class:aves (domeri) year >= 1900 year <= 1910" ; Times: 1
+	Query: "Trichixos pyrropygus" ; Times: 1
+	Query: "(quindio)" ; Times: 2
+	Query: "recordedby:goldie year >= 1879 year <= 1879" ; Times: 1
+	Query: "country:"malaysia" class:aves year >= 1951 year <= 1951" ; Times: 1
+	Query: "DMNH Ninox philippensis" ; Times: 1
+	Query: "institutioncode:DMNH" ; Times: 1
+	Query: "recordedby:Hansen year >= 1983 year <= 1983" ; Times: 1
+	Query: "country:"thailand" class:aves year >= 1960 year <= 1960" ; Times: 1
+	Query: "country:"myanmar" class:aves year >= 1881 year <= 1881" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 3
+	Query: "DMNH 13649" ; Times: 2
+	Query: "DMNH 13648" ; Times: 2
+	Query: "Copsychus luzoniensis shemleyi" ; Times: 1
+	Query: "george willet" ; Times: 1
+	Query: "mubuku country:"uganda" class:aves year >= 1906 year <= 1906" ; Times: 1
+	Query: "county:"Alameda" stateprovince:"California" class:aves recordedby:burleigh year >= 1962 year <= 1965" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pallens genus:Vireo" ; Times: 1
+	Query: "country:"indonesia" class:aves year >= 1955 year <= 1955" ; Times: 1
+	Query: "passerina rositae" ; Times: 3
+	Query: "class:aves recordedby:schauensee year >= 1930 year <= 1940" ; Times: 1
+	Query: "recordedby:barton year >= 1890 year <= 1920" ; Times: 1
+	Query: "DMNH 30085" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "country:"india" class:aves year >= 1911 year <= 1911" ; Times: 1
+	Query: "county:"Columbia" stateprovince:"Wisconsin"" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "recordedby:van D year >= 1850 year <= 1900" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica NOT States NOT Peru NOT Haiti)" ; Times: 1
+	Query: "(domeri) year >= 1900 year <= 1910" ; Times: 1
+	Query: "country:"USSR" class:aves year >= 1940 year <= 1960" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "country:"canada" specificepithet:corax genus:corvus year >= 1920 year <= 2014" ; Times: 1
+	Query: "class:aves recordedby:sykes year >= 1850 year <= 1900" ; Times: 1
+	Query: "class:aves recordedby:de schauensee year >= 1930 year <= 1940" ; Times: 1
+	Query: "ectopistes migratorius egg" ; Times: 1
+	Query: "stateprovince:"utah" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "Galbula cyanescens" ; Times: 2
+	Query: "recordedby:silver" ; Times: 1
+	Query: ""sylvietta virens"" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "wood turtle" ; Times: 1
+	Query: "class:aves recordedby:Barton year >= 1900 year <= 1910" ; Times: 1
+	Query: "class:aves recordedby:silver" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 273 download events in this period)
+Total number of records downloaded: 1930 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1525
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 8
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-19 ; Times: 4
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-26 ; Times: 2
+	Date: 2014-08-27 ; Times: 3
+	Date: 2014-08-28 ; Times: 5
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo regalis" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "year >= 1866 year <= 1866" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "Charadrius montanus" ; Times: 3
+	Query: "country:"Mexico" specificepithet:cochlearius genus:Cochlearius" ; Times: 1
+	Query: "country:"Mexico" specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pallens genus:Vireo" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza institutioncode:CAS OR MVZ" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 298
+Total number of records retrieved from searches: 3199
+Number of download events that retrieved data from the resource: 152
+Total number of records downloaded: 282140
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 298
+Total number of records retrieved from searches: 3199
+Number of download events that retrieved data from the resource: 210
+Total number of records downloaded: 632361
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
