@@ -1,0 +1,192 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for November, 2014, generated on 2014/12/23
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 2339
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 2
+	Country: Canada ; Times: 5
+	Country: France ; Times: 1
+	Country: Germany ; Times: 13
+	Country: Mexico ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 60
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 2
+	Date: 2014-11-02 ; Times: 7
+	Date: 2014-11-03 ; Times: 4
+	Date: 2014-11-05 ; Times: 8
+	Date: 2014-11-06 ; Times: 4
+	Date: 2014-11-07 ; Times: 4
+	Date: 2014-11-08 ; Times: 3
+	Date: 2014-11-10 ; Times: 4
+	Date: 2014-11-11 ; Times: 3
+	Date: 2014-11-12 ; Times: 9
+	Date: 2014-11-13 ; Times: 4
+	Date: 2014-11-14 ; Times: 4
+	Date: 2014-11-15 ; Times: 1
+	Date: 2014-11-17 ; Times: 1
+	Date: 2014-11-18 ; Times: 1
+	Date: 2014-11-19 ; Times: 2
+	Date: 2014-11-20 ; Times: 5
+	Date: 2014-11-21 ; Times: 1
+	Date: 2014-11-22 ; Times: 2
+	Date: 2014-11-23 ; Times: 2
+	Date: 2014-11-24 ; Times: 8
+	Date: 2014-11-25 ; Times: 5
+	Date: 2014-11-26 ; Times: 7
+	Date: 2014-11-27 ; Times: 3
+	Date: 2014-11-28 ; Times: 1
+	Date: 2014-11-29 ; Times: 6
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:melanocephalus genus:Pheucticus" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "aratinga" ; Times: 1
+	Query: "bangsia" ; Times: 1
+	Query: "Salmon" ; Times: 1
+	Query: "Hachisuka 1929 philippines" ; Times: 1
+	Query: "kittiwake" ; Times: 1
+	Query: "Loxia curvirostra" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Henshaw" ; Times: 1
+	Query: "melanerpes erythrocephalus" ; Times: 3
+	Query: "country:"philippines" recordedby:Hachisuka year >= 1929 year <= 1929" ; Times: 1
+	Query: "Hachisuka 1929" ; Times: 1
+	Query: "Cistothorus" ; Times: 1
+	Query: "vireo griseus stateprovince:"Florida"" ; Times: 1
+	Query: "Callipepla gambelii stephensi" ; Times: 1
+	Query: "porphyrio martinica" ; Times: 3
+	Query: "trinidad" ; Times: 1
+	Query: "mellivora" ; Times: 1
+	Query: "Coracina coerulescens deschauenseei" ; Times: 1
+	Query: "Pardaliparus elegans suluensis" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 2
+	Query: "vanellus chilensis" ; Times: 1
+	Query: "Calidris melanotos" ; Times: 1
+	Query: "genus:Sphyrapicus" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "type:specimen (hooded OR setophaga OR wilsonia AND warbler OR citrina) AND (NOT pusilla)" ; Times: 1
+	Query: "beaver michigan" ; Times: 1
+	Query: "sonora" ; Times: 1
+	Query: "Lubbock" ; Times: 1
+	Query: "Hayward" ; Times: 1
+	Query: "AULS" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:vociferus genus:caprimulgus" ; Times: 1
+	Query: "Halcyon coromanda linae" ; Times: 2
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "(Rissa) year >= 1600 year <= 2012" ; Times: 2
+	Query: "rallus" ; Times: 1
+	Query: "egg minnesota" ; Times: 1
+	Query: "county:"Dona Ana" stateprovince:"New Mexico" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Periparus elegans suluensis" ; Times: 1
+	Query: "MVZ" ; Times: 1
+	Query: "Sapayoa aenigma" ; Times: 4
+	Query: "pionus" ; Times: 2
+	Query: "Gavia immer" ; Times: 1
+	Query: "dominica" ; Times: 1
+	Query: "sterna" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "minnesota bird" ; Times: 1
+	Query: "stateprovince:"Puebla" country:"Mexico"" ; Times: 3
+	Query: "Phalacrocorax" ; Times: 3
+	Query: "Numenius borealis" ; Times: 2
+	Query: "pinus" ; Times: 2
+	Query: "coyote" ; Times: 1
+	Query: "ninox scutulata philippines" ; Times: 2
+	Query: "ninox randi" ; Times: 1
+	Query: "Big Sandy River" ; Times: 1
+	Query: "tyrannidae egg" ; Times: 2
+	Query: "stateprovince:"puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Dendroica petechia oraria" ; Times: 1
+	Query: "vireo idaho" ; Times: 1
+	Query: "setophaga" ; Times: 1
+	Query: "dog" ; Times: 1
+	Query: "Halcyon coromanda claudiae" ; Times: 1
+	Query: "stateprovince:"ontario" country:"canada"" ; Times: 1
+	Query: "type:specimen (hooded OR setophaga OR wilsonia AND warbler OR citrina)" ; Times: 1
+	Query: "Falco" ; Times: 1
+	Query: "stateprovince:"Sonora"" ; Times: 2
+	Query: "stateprovince:"Alaska" specificepithet:borealis genus:Phylloscopus class:Aves" ; Times: 1
+	Query: "mexico yucatan" ; Times: 2
+	Query: "sternidae" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "falco" ; Times: 1
+	Query: "cyanocorax maya" ; Times: 1
+	Query: "Somateria mollissima skin" ; Times: 1
+	Query: "stateprovince:"Puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "geothlypis trichas country:"cuba"" ; Times: 1
+	Query: "Morelia" ; Times: 1
+	Query: "Anas andium" ; Times: 1
+	Query: "vermivora OR Oreothlypis OR Parula mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(17.811456088564483,-97.822265625))<100000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 178 download events in this period)
+Total number of records downloaded: 3446 (out of 878465 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3424
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-06 ; Times: 2
+	Date: 2014-11-10 ; Times: 1
+	Date: 2014-11-18 ; Times: 1
+	Date: 2014-11-19 ; Times: 1
+	Date: 2014-11-24 ; Times: 1
+	Date: 2014-11-25 ; Times: 1
+	Date: 2014-11-26 ; Times: 4
+	Date: 2014-11-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "Rissa brevirostris" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "(vermivora OR Oreothlypis OR Parula) mappable:1" ; Times: 1
+	Query: "dendroica tissue" ; Times: 1
+	Query: "aves de chihuahua" ; Times: 1
+	Query: "myrmeciza exsul" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "type:specimen specificepithet:tucanus genus:ramphastos class:aves" ; Times: 1
+	Query: "Morelia" ; Times: 1
+	Query: "setophaga tissue" ; Times: 1
+	Query: "dendroica" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 542
+Total number of records retrieved from searches: 7678
+Number of download events that retrieved data from the resource: 202
+Total number of records downloaded: 294777
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 542
+Total number of records retrieved from searches: 7678
+Number of download events that retrieved data from the resource: 260
+Total number of records downloaded: 644998
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
