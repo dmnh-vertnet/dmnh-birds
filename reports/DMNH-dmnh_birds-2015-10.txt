@@ -1,0 +1,395 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 314
+Number of records retrieved in searches: 4184
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 26
+	Country: United Kingdom ; Times: 17
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 47
+	Country: Unknown ; Times: 17
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: Austria ; Times: 3
+	Country: France ; Times: 5
+	Country: United States ; Times: 169
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 5
+	Country: Japan ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 9
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-14 ; Times: 13
+	Date: 2015-10-15 ; Times: 11
+	Date: 2015-10-12 ; Times: 3
+	Date: 2015-10-13 ; Times: 12
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-11 ; Times: 24
+	Date: 2015-10-18 ; Times: 7
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 18
+	Date: 2015-10-28 ; Times: 30
+	Date: 2015-10-27 ; Times: 18
+	Date: 2015-10-26 ; Times: 9
+	Date: 2015-10-25 ; Times: 7
+	Date: 2015-10-24 ; Times: 7
+	Date: 2015-10-23 ; Times: 20
+	Date: 2015-10-22 ; Times: 10
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-05 ; Times: 12
+	Date: 2015-10-07 ; Times: 8
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-01 ; Times: 15
+	Date: 2015-10-02 ; Times: 18
+	Date: 2015-10-09 ; Times: 24
+	Date: 2015-10-08 ; Times: 9
+	Date: 2015-10-30 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "sabah Columbidae" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "Seiurus aurocapilla type:specimen (Canada)" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "class:aves stateprovince:california year:1976" ; Times: 4
+	Query: "chaetura (skel OR skeleton)" ; Times: 2
+	Query: "Falco sparverius type:specimen" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "Sittasomus griseicapillus gracileus type:specimen" ; Times: 1
+	Query: "guttera edouardi year &gt;= 1960" ; Times: 1
+	Query: "&#34;callipepla squamata squamata&#34; year &gt;= 1950" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 4
+	Query: "Dryocopus lineatus" ; Times: 2
+	Query: "accipiter cooperii" ; Times: 1
+	Query: "Buteo Lineatus" ; Times: 1
+	Query: "Selasphorus rufus type:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "distance(location,geopoint(25.045792240303445,-100.1953125))&lt;100000" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco institutioncode:DMNH" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "pachycephala caledonica" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "cuba" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "specificepithet:griseus genus:limnodromus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Guttera pucherani year &gt;= 1950" ; Times: 1
+	Query: "Acryllium vulturinum year &gt;= 1960" ; Times: 1
+	Query: "calypte anna type:specimen" ; Times: 1
+	Query: "Selasphorus rufus type:specimen country:&#34;Mexico&#34; month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "guttera pucherani year &gt;= 1960" ; Times: 1
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Geotrygon carrikeri" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "(strix)" ; Times: 1
+	Query: "Arremon flavirostris" ; Times: 1
+	Query: "Lepidocolaptes (skel OR skeleton)" ; Times: 1
+	Query: "gavia arctica" ; Times: 1
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 1
+	Query: "&#34;Lagopus lagopus&#34;" ; Times: 1
+	Query: "FALK 1" ; Times: 1
+	Query: "buteo albicaudatus" ; Times: 1
+	Query: "emberiza pallasi" ; Times: 1
+	Query: "pipra fasciicauda" ; Times: 1
+	Query: "county:&#34;lubbock&#34; sex:MALE" ; Times: 1
+	Query: "geotrygon montana" ; Times: 1
+	Query: "Acryllium vulturinum year &gt;= 1920" ; Times: 1
+	Query: "Bradley" ; Times: 1
+	Query: "Nestor meridionalis" ; Times: 1
+	Query: "genus:junco institutioncode:DMNH" ; Times: 1
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "Brachyramphus" ; Times: 1
+	Query: "North Island British Columbia 1930" ; Times: 2
+	Query: "country:&#34;India&#34; continent:Asia tissue:1" ; Times: 1
+	Query: "genus:Icteria stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Grallaria carrikeri" ; Times: 1
+	Query: "Rhynchopsitta terrisi" ; Times: 1
+	Query: "xiphidiopicus percussus" ; Times: 2
+	Query: "Florida Phoenicopterus" ; Times: 4
+	Query: "Guttera year &gt;= 1960" ; Times: 2
+	Query: "Chloropipo unicolor type:specimen" ; Times: 1
+	Query: "pellorneum pyrrogenys" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "type:specimen genus:zonotrichia institutioncode:DMNH" ; Times: 3
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Oregon&#34; year &gt;= 1960" ; Times: 1
+	Query: "rattlesnake" ; Times: 1
+	Query: "skeleton specificepithet:harrisi family:Phalacrocoracidae" ; Times: 1
+	Query: "Synthliboramphus scrippsi Channel" ; Times: 1
+	Query: "Graham Island British Columbia 1940" ; Times: 1
+	Query: "rostratula (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1970" ; Times: 1
+	Query: "suffolk county new york setauket" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "Langara DMNH" ; Times: 9
+	Query: "Aquila chrysaetos" ; Times: 3
+	Query: "comitan" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "odontophorus speciosus" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "calocitta formosa" ; Times: 4
+	Query: "Callipepla californica" ; Times: 2
+	Query: "columbina inca" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "willow creek" ; Times: 2
+	Query: "paradisaea" ; Times: 1
+	Query: "Dendragapus obscurus" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "class:Aves distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Amazilia castaneiventris" ; Times: 2
+	Query: "1647" ; Times: 1
+	Query: "Phoenicopterus" ; Times: 1
+	Query: "Chloropipo unicolor" ; Times: 1
+	Query: "mono" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "genus:Icteria stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "momotus momota" ; Times: 1
+	Query: "ku 2009" ; Times: 2
+	Query: "27542" ; Times: 1
+	Query: "Alcedo hercules country:&#34;India&#34;" ; Times: 1
+	Query: "Eupherusa cyanophrys" ; Times: 1
+	Query: "(best)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Wetzel" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 1
+	Query: "tennessee" ; Times: 1
+	Query: "genus:Zonotrichia county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34; preparations:skin" ; Times: 1
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "county:&#34;Fulton&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Francolinus pintadeanus" ; Times: 1
+	Query: "Laridae type:specimen tissue:1" ; Times: 1
+	Query: "whale" ; Times: 2
+	Query: "Dryocopus lineatus Peru" ; Times: 1
+	Query: "castanea" ; Times: 1
+	Query: "yuhina castaniceps institutioncode:DMNH" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "catharus guttatus arizona" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "wilsonia pusilla (Santa Monica)" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Guttera edouardi year &gt;= 1950" ; Times: 2
+	Query: "specificepithet:hyemalis genus:junco (sutton) institutioncode:DMNH" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "Nyctiphrynus ocellatus" ; Times: 2
+	Query: "specificepithet:flaviceps genus:Auriparus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 2
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "dendrortyx leucophrys" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 1
+	Query: "Seiurus aurocapilla type:specimen country:&#34;Canada&#34; (Canada)" ; Times: 1
+	Query: "sialia sialis type:specimen tissue:1" ; Times: 1
+	Query: "Falco sparverius (skeleton) tissue:1" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "manacus" ; Times: 1
+	Query: "parmelee Melanerpes" ; Times: 1
+	Query: "specificepithet:lomvia genus:uria stateprovince:&#34;delaware&#34;" ; Times: 1
+	Query: "Campylorhynchus gularis" ; Times: 2
+	Query: "&#34;willow creek&#34;" ; Times: 1
+	Query: "Guttera pucherani" ; Times: 1
+	Query: "Rhynchocyclus (skel OR skeleton)" ; Times: 1
+	Query: "phoebastria (skel OR skeleton) sex:female" ; Times: 1
+	Query: "similis" ; Times: 1
+	Query: "zosterops kakamega" ; Times: 1
+	Query: "Guttera year &gt;= 1950" ; Times: 2
+	Query: "Ara militaris" ; Times: 2
+	Query: "AMNH 13595" ; Times: 1
+	Query: "Falco sparverius type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "AMNH 13591" ; Times: 1
+	Query: "Hymenops (skel OR skeleton) sex:female" ; Times: 1
+	Query: "aves California" ; Times: 1
+	Query: "Guttera edouardi" ; Times: 1
+	Query: "scolopax minor" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 7
+	Query: "specificepithet:gallopavo genus:meleagris" ; Times: 4
+	Query: "Thalurania ridgwayi" ; Times: 1
+	Query: "archilochus (skel OR skeleton)" ; Times: 6
+	Query: "Ridgwayia pinicola" ; Times: 1
+	Query: "Cyrtonyx montezumae Chihuahua" ; Times: 2
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "Turdus" ; Times: 1
+	Query: "guttera pucherani" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "AMNH 13587" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "Coccothraustes abeillei" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Washington&#34; year &gt;= 1960" ; Times: 1
+	Query: "Selasphorus rufus type:specimen (Mexico)" ; Times: 1
+	Query: "Seiurus aurocapilla (Canada)" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "Pheucticus chrysopeplus" ; Times: 1
+	Query: "aramides cajanea" ; Times: 2
+	Query: "Sitta oenochlamys" ; Times: 2
+	Query: "Synthliboramphus hypoleucus California" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 2
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(40.44694705960048,-89.384765625))&lt;100000" ; Times: 1
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "Hidalgo County" ; Times: 2
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 4
+	Query: "Selasphorus rufus country:&#34;Mexico&#34; month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "Calyptomena (skel OR skeleton)" ; Times: 1
+	Query: "troglodytes" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Scolopax minor" ; Times: 2
+	Query: "habia rubica" ; Times: 1
+	Query: "mvz bird california" ; Times: 1
+	Query: "coturnix skeleton" ; Times: 3
+	Query: "Lepidocolaptes leucogaster" ; Times: 1
+	Query: "AMNH 13589" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "Catharus occidentalis" ; Times: 1
+	Query: "pachycephala jacquinoti" ; Times: 1
+	Query: "Coahuila Mexico" ; Times: 1
+	Query: "specificepithet:griseus genus:limnodromus" ; Times: 1
+	Query: "Ciccaba virgata mappable:1" ; Times: 1
+	Query: "Falco sparverius (skeleton)" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 1
+	Query: "Zenaida macroura clarionensis" ; Times: 1
+	Query: "sitta pusilla" ; Times: 1
+	Query: "type:specimen specificepithet:cornutus genus:Eunymphicus" ; Times: 1
+	Query: "Toxostoma curvirostre stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "Chloroceryle sex:female (skel OR skeleton)" ; Times: 1
+	Query: "ocampo Coahuila Mexico aves" ; Times: 1
+	Query: "podicipediformes" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "distance(location,geopoint(34.718099265398884,-88.77845764160156))&lt;100000" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Sitta pusilla" ; Times: 2
+	Query: "Phalaropus minnesota" ; Times: 1
+	Query: "Poecile (skel OR skeleton) sex:female" ; Times: 1
+	Query: "paradisaea minor female" ; Times: 7
+	Query: "genus:Passerella stateprovince:&#34;Kansas&#34; preparations:skin" ; Times: 1
+	Query: "Langara Island" ; Times: 2
+	Query: "ortalis" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 823 download events in this period)
+Total number of records downloaded: 5296
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: India ; Times: 1
+	Country: United States ; Times: 24
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Jamaica ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 10
+	Date: 2015-10-27 ; Times: 6
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sabah Columbidae" ; Times: 1
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "(ciccaba)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Henicorhina leucophrys mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Coccothraustes abeillei" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Washington&#34; year &gt;= 1960" ; Times: 1
+	Query: "Ortalis wagleri" ; Times: 1
+	Query: "Lepidocolaptes leucogaster" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "Vireo osburni" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Dendrortyx macroura" ; Times: 1
+	Query: "Sitta oenochlamys" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Campylorhynchus gularis" ; Times: 1
+	Query: "Eupherusa poliocerca" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 2
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "class:Aves distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Toxostoma curvirostre stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "sylhet" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+	Query: "Amazilia castaneiventris" ; Times: 2
+	Query: "Thalurania ridgwayi" ; Times: 1
+
+
+End of report.
