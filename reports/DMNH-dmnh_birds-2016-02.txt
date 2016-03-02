@@ -1,0 +1,337 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 324
+Number of records retrieved in searches: 4334
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: Brazil ; Times: 7
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 94
+	Country: Denmark ; Times: 5
+	Country: Puerto Rico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 183
+	Country: Sweden ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Iceland ; Times: 2
+	Country: United Arab Emirates ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 12
+	Date: 2016-02-08 ; Times: 5
+	Date: 2016-02-18 ; Times: 19
+	Date: 2016-02-19 ; Times: 40
+	Date: 2016-02-12 ; Times: 9
+	Date: 2016-02-13 ; Times: 5
+	Date: 2016-02-10 ; Times: 8
+	Date: 2016-02-11 ; Times: 11
+	Date: 2016-02-16 ; Times: 18
+	Date: 2016-02-17 ; Times: 4
+	Date: 2016-02-14 ; Times: 5
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-29 ; Times: 11
+	Date: 2016-02-02 ; Times: 12
+	Date: 2016-02-23 ; Times: 5
+	Date: 2016-02-22 ; Times: 13
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 10
+	Date: 2016-02-27 ; Times: 6
+	Date: 2016-02-26 ; Times: 13
+	Date: 2016-02-25 ; Times: 14
+	Date: 2016-02-24 ; Times: 47
+	Date: 2016-02-01 ; Times: 11
+	Date: 2016-02-03 ; Times: 17
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-05 ; Times: 14
+	Date: 2016-02-04 ; Times: 4
+	Date: 2016-02-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "muscicapa ferruginea" ; Times: 1
+	Query: "class:aves stateprovince:california year:1976" ; Times: 3
+	Query: "rufopunctatus" ; Times: 1
+	Query: "aethia psittacula" ; Times: 1
+	Query: "catalognumber:65483 institutioncode:DMNH" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 3
+	Query: "Columbina passerina" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1921 year &lt;= 1925" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 1
+	Query: "Murre" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "monterey Sitta pygmaea" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 2
+	Query: "class:Aves stateprovince:Nevada" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "specificepithet:palustris genus:Cistothorus country:&#34;Mexico&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "genus:lamprolia" ; Times: 1
+	Query: "type:specimen county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "aphelocoma californica type:specimen country:&#34;mexico&#34; mappable:1" ; Times: 1
+	Query: "henicorhina leucosticta country:&#34;ecuador&#34;" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Catharus guttatus" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "trogon citreolus citreolus" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "sporophila torqueola" ; Times: 1
+	Query: "gymnomyza viridis" ; Times: 2
+	Query: "asio otus" ; Times: 1
+	Query: "lepidocolaptes souleyetii mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1932 year &lt;= 1932" ; Times: 1
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 1
+	Query: "ptilinopus layardi" ; Times: 3
+	Query: "class:aves locality:magdalena country:&#34;Mexico&#34; year &gt;= 1925 year &lt;= 1925 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "yale" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "tympanuchus cupido cupido" ; Times: 3
+	Query: "Vireo vicinior" ; Times: 2
+	Query: "Phalacrocorax harrisi" ; Times: 2
+	Query: "cardinalis tissue:1" ; Times: 2
+	Query: "gyps" ; Times: 1
+	Query: "distance(location,geopoint(30.410781790845892,-115.42236328125))&lt;230229" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(25.935817142040126,-80.22663116455078))&lt;12098.115330222452" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 1
+	Query: "Synallaxis" ; Times: 1
+	Query: "spizaetus limnaeetus" ; Times: 3
+	Query: "specificepithet:Melania genus:Oceanodroma mappable:1" ; Times: 1
+	Query: "Vireo vicinior year &gt;= 1940 year &lt;= 2016 month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Iowa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "county:&#34;Osceola&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:allen institutioncode:DMNH" ; Times: 1
+	Query: "dapoi 1951" ; Times: 1
+	Query: "Rabbit" ; Times: 1
+	Query: "colaptes auratus tissue:1" ; Times: 1
+	Query: "class:Aves recordedby:Jacot" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 24
+	Query: "ptilinopus victor" ; Times: 3
+	Query: "46719" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "tringa solitaria cinnamomea" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "vireo flavoviridis" ; Times: 1
+	Query: "catharus minimus" ; Times: 2
+	Query: "aguilas" ; Times: 3
+	Query: "myzomela chermesina" ; Times: 1
+	Query: "county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "austin texas" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; recordedby:davis" ; Times: 1
+	Query: "momotus momota" ; Times: 1
+	Query: "gallicolumba platenae" ; Times: 5
+	Query: "30149" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "Aves North Reef" ; Times: 2
+	Query: "selasphorus sasin" ; Times: 3
+	Query: "cercibis oxycerca" ; Times: 1
+	Query: "salpinctes obsoletus exsul" ; Times: 1
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "class:aves locality:magdalena country:&#34;Mexico&#34; year &gt;= 1925 year &lt;= 1925" ; Times: 1
+	Query: "juvenile bird" ; Times: 6
+	Query: "Caprimulgus year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "saltator" ; Times: 1
+	Query: "TROGON ambiguus type:specimen" ; Times: 1
+	Query: "cyanopica cooki" ; Times: 9
+	Query: "specificepithet:melodia genus:Melospiza stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; year &gt;= 1750 year &lt;= 1921" ; Times: 1
+	Query: "Anas rubripes" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:allen" ; Times: 1
+	Query: "ducula aurorae" ; Times: 2
+	Query: "tachycineta type:specimen institutioncode:DMNH" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:j. allen" ; Times: 1
+	Query: "Vireo vicinior mexico" ; Times: 1
+	Query: "gymnomyza samoensis" ; Times: 2
+	Query: "Uria aalge" ; Times: 2
+	Query: "Cepphus columba" ; Times: 1
+	Query: "ptilinopus mercierii" ; Times: 1
+	Query: "presque isle" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 2
+	Query: "stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "guttatus virginia" ; Times: 2
+	Query: "cardinalis cardinalis tissue:1" ; Times: 1
+	Query: "brachyura" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:a j allen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;ontario&#34; country:&#34;canada&#34; year &lt;= 1920" ; Times: 1
+	Query: "presque isle pennsylvania" ; Times: 1
+	Query: "type:specimen specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "Uria lomvia" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Sturnella magna" ; Times: 1
+	Query: "Colombia" ; Times: 2
+	Query: "aves (costa rica) institutioncode:DMNH" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Bergen" ; Times: 1
+	Query: "picidae skeleton" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Accipiter cooperii" ; Times: 3
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 2
+	Query: "ducula pickeringii" ; Times: 1
+	Query: "melanerpes aurifrons" ; Times: 1
+	Query: "catharus bicknelli" ; Times: 1
+	Query: "class:aves recordedby:wheeler" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 3
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "victoria county" ; Times: 1
+	Query: "petechia" ; Times: 1
+	Query: "ducula mindorensis" ; Times: 4
+	Query: "Xenospiza" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;ontario&#34; country:&#34;canada&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 3
+	Query: "Sialis sialia" ; Times: 2
+	Query: "rallus mirificus" ; Times: 6
+	Query: "Pharomachrus mocinno" ; Times: 30
+	Query: "Pitta brachyura type:specimen" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "caprimulgus asiaticus india" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1919 year &lt;= 1920" ; Times: 1
+	Query: "Vireo vicinior year &gt;= 1940 year &lt;= 2016" ; Times: 1
+	Query: "Catharus guttatus distance(location,geopoint(31.989441837922904,-116.12548828125))&lt;100000" ; Times: 1
+	Query: "class:aves country:&#34;united states&#34; recordedby:wheeler" ; Times: 1
+	Query: "specificepithet:palustris genus:Cistothorus country:&#34;Mexico&#34; month &gt;= 5 month &lt;= 8 institutioncode:DMNH" ; Times: 1
+	Query: "Michigan university" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1921 year &lt;= 1923" ; Times: 1
+	Query: "tom white" ; Times: 1
+	Query: "Mammoth" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Accipiter chionogaster type:specimen" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "specificepithet:pictus genus:calcarius class:aves" ; Times: 1
+	Query: "Hendee" ; Times: 1
+	Query: "Xenopipo unicolor" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "trogon mexicanus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "Arremonops rufivirgatus" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "ara militaris" ; Times: 15
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 512 download events in this period)
+Total number of records downloaded: 14665
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 37
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-29 ; Times: 8
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-14 ; Times: 5
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "okinawa class:Aves" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "specificepithet:palustris genus:Cistothorus country:&#34;Mexico&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "county:&#34;Shannon&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "tissue:1" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1920 year &lt;= 1926 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "genus:lamprolia" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "henicorhina leucosticta country:&#34;colombia&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1940 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "Hendee" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "klages santarem" ; Times: 1
+	Query: "presque isle pennsylvania" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
