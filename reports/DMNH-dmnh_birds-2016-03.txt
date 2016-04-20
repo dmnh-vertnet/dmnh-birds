@@ -1,0 +1,188 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 1170
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 26
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 65
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 10
+	Date: 2016-03-02 ; Times: 10
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-01 ; Times: 16
+	Date: 2016-03-08 ; Times: 15
+	Date: 2016-03-09 ; Times: 7
+	Date: 2016-03-06 ; Times: 6
+	Date: 2016-03-14 ; Times: 4
+	Date: 2016-03-04 ; Times: 9
+	Date: 2016-03-05 ; Times: 5
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 9
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "CATALINA" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;distrito federal&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Falco sparverius type:specimen" ; Times: 1
+	Query: "Rollo Beck" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "distance(location,geopoint(21.695000733150102,-104.16093707084656))&lt;100000" ; Times: 1
+	Query: "calvert" ; Times: 1
+	Query: "sittasomus mappable:1" ; Times: 1
+	Query: "Columba" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 2
+	Query: "genus:Carpodacus stateprovince:&#34;oaxaca&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 3
+	Query: "calothorax lucifer mexico" ; Times: 1
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 2
+	Query: "WILLETT" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "diglossa baritula" ; Times: 8
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Strix type:specimen country:&#34;guatemala&#34; AND (NOT nigrolineata NOT occidentalis NOT virgata NOT nigrolineatum NOT virgatum)" ; Times: 1
+	Query: "puebla" ; Times: 1
+	Query: "Anacapa" ; Times: 2
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "chrysococcyx minutillus" ; Times: 1
+	Query: "Caprimulgus tristigma" ; Times: 1
+	Query: "utah museum of natural history" ; Times: 2
+	Query: "genus:Carpodacus stateprovince:&#34;durango&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Aves Costa Rica" ; Times: 1
+	Query: "tiaris obscura" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 3
+	Query: "monterrey" ; Times: 1
+	Query: "Porzana palmeri" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Colibri thalassinus (bill)" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "Essex" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "locality:San Cayetano" ; Times: 1
+	Query: "genus:Regulus satrapa mappable:1" ; Times: 1
+	Query: "(Colombia)" ; Times: 1
+	Query: "phoenicopterus ruber distance(location,geopoint(25.760319754713887,-80.859375))&lt;100000" ; Times: 1
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "aves distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;195452" ; Times: 1
+	Query: "Strix type:specimen country:&#34;guatemala&#34; AND (NOT nigrolineata NOT occidentalis NOT virgata)" ; Times: 1
+	Query: "genus:Regulus mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1939" ; Times: 1
+	Query: "elaenia" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "catharus guttatus tissue:1" ; Times: 1
+	Query: "bonasa umbellus year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "distance(location,geopoint(25.942239101010102,-100.16279339790344))&lt;100000" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "Santa Cruz Island California" ; Times: 1
+	Query: "dendragapus obscurus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "&#34;Caprimulgus tristigma&#34;" ; Times: 1
+	Query: "Tv" ; Times: 1
+	Query: "bombycilla cedrorum" ; Times: 2
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "Ammodramus henslowii (virginia)" ; Times: 1
+	Query: "haematopus bachmani (British Columbia)" ; Times: 2
+	Query: "2229" ; Times: 1
+	Query: "endangered" ; Times: 1
+	Query: "carpodacus mexicanus" ; Times: 1
+	Query: "otus continent:Asia tissue:1" ; Times: 2
+	Query: "phoenicopterus ruber distance(location,geopoint(25.64152637306577,-79.8046875))&lt;100000" ; Times: 1
+	Query: "falco mexicanus" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "genus:Chen mappable:1" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1890" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "troglodytes petrophilus" ; Times: 2
+	Query: "otus tissue:1" ; Times: 1
+	Query: "genus:Carpodacus" ; Times: 1
+	Query: "Aves Upucerthia (Bolivia)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 230 download events in this period)
+Total number of records downloaded: 22142
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 54
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-01 ; Times: 6
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Limoncocha" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "type:specimen tissue:1" ; Times: 2
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "Tamazulapan stateprovince:&#34;Oaxaca&#34; mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+
+
+End of report.
