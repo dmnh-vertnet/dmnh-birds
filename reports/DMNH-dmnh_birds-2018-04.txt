@@ -1,0 +1,517 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 488
+Number of records retrieved in searches: 4766
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: United States ; Times: 336
+	Country: Singapore ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: Mexico ; Times: 41
+	Country: India ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Japan ; Times: 5
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 9
+	Country: Unknown ; Times: 6
+	Country: China ; Times: 2
+	Country: Argentina ; Times: 14
+	Country: France ; Times: 2
+	Country: Venezuela ; Times: 3
+	Country: Brazil ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 23
+	Date: 2018-04-21 ; Times: 22
+	Date: 2018-04-20 ; Times: 8
+	Date: 2018-04-27 ; Times: 7
+	Date: 2018-04-26 ; Times: 14
+	Date: 2018-04-25 ; Times: 49
+	Date: 2018-04-24 ; Times: 56
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 14
+	Date: 2018-04-02 ; Times: 9
+	Date: 2018-04-05 ; Times: 21
+	Date: 2018-04-04 ; Times: 21
+	Date: 2018-04-07 ; Times: 7
+	Date: 2018-04-06 ; Times: 9
+	Date: 2018-04-09 ; Times: 37
+	Date: 2018-04-08 ; Times: 10
+	Date: 2018-04-16 ; Times: 21
+	Date: 2018-04-12 ; Times: 12
+	Date: 2018-04-13 ; Times: 16
+	Date: 2018-04-10 ; Times: 18
+	Date: 2018-04-11 ; Times: 12
+	Date: 2018-04-30 ; Times: 7
+	Date: 2018-04-17 ; Times: 7
+	Date: 2018-04-15 ; Times: 28
+	Date: 2018-04-18 ; Times: 27
+	Date: 2018-04-19 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "houston" ; Times: 1
+	Query: "oberholseri" ; Times: 2
+	Query: "Acatlan" ; Times: 2
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "genus:Ptychoramphus locality:Kodiak stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Archilochus alexandri" ; Times: 1
+	Query: "cranioleuca antisiensis" ; Times: 1
+	Query: "genus:porzana class:aves hastissue:1" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 6
+	Query: "genus:rhipidura class:aves (new caledonia)" ; Times: 1
+	Query: "Dendroica dominica stoddardi" ; Times: 1
+	Query: "locality:Atexcac country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus class:Aves year &gt;= 1850 year &lt;= 1895 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "colinus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Laterallus" ; Times: 2
+	Query: "Ohio birds" ; Times: 1
+	Query: "DMNH 612" ; Times: 1
+	Query: "cyanoptila" ; Times: 2
+	Query: "athene cunicularia hypugaea stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 4
+	Query: "county:&#34;thurston&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "34929" ; Times: 2
+	Query: "Acrocephalus atyphus" ; Times: 1
+	Query: "&#34;weymouth&#34;" ; Times: 1
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:atthis country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(46.76972,-100.91535))&lt;50000" ; Times: 1
+	Query: "melanerpes uropygialis stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "colinus vntype:specimen stateprovince:&#34;Florida&#34; (miami) institutioncode:DMNH" ; Times: 1
+	Query: "ammodramus savannarum stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:nigricollis genus:Podiceps hastissue:1" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "icterus pustulatus" ; Times: 1
+	Query: "9061" ; Times: 2
+	Query: "vermivora peregrina guatemala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:rallidae class:aves hastissue:1" ; Times: 3
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "coccyzus americanus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Dane wisconsin" ; Times: 1
+	Query: "Molothrus aeneus mappable:1" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:laterallus family:rallidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.998269,-89.704767))&lt;50000" ; Times: 1
+	Query: "genus:Calcarius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Napuka Acrocephalus" ; Times: 1
+	Query: "drexel" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "75309" ; Times: 1
+	Query: "class:Aves institutioncode:DMNH" ; Times: 2
+	Query: "katy texas birds" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.9717,-95.2353))&lt;3795" ; Times: 1
+	Query: "Oceanodroma leucorhoa" ; Times: 2
+	Query: "laing recordedby:laing H" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 6
+	Query: "75025" ; Times: 1
+	Query: "colinus vntype:specimen country:&#34;United States&#34; institutioncode:DMNH" ; Times: 3
+	Query: "Ptilinopus insularis" ; Times: 2
+	Query: "columbina talpacoti venezuela" ; Times: 1
+	Query: "colinus vntype:specimen stateprovince:&#34;Maryland&#34; NOT (skeleton) institutioncode:DMNH" ; Times: 1
+	Query: "34825" ; Times: 1
+	Query: "progne subis hesperia stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 22
+	Query: "specificepithet:alpestris genus:Eremophila class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "anthus spragueii stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "toxostoma lecontei stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:discors genus:anas" ; Times: 1
+	Query: "vireo bellii arizonae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Dickey Collection" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "pachyramphus aglaiae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "colinus vntype:specimen stateprovince:&#34;Florida&#34; institutioncode:DMNH" ; Times: 1
+	Query: "Atlapetes albinucha mappable:1" ; Times: 1
+	Query: "specificepithet:philippensis genus:Pelecanus" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "lampornis clemenciae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "cynanthus latirostris stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "contopus cooperi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "caracara cheriway" ; Times: 3
+	Query: "institutioncode:dmnh 82994" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "cistothorus palustris" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "72648" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "KU 19385" ; Times: 1
+	Query: "crypturellus" ; Times: 1
+	Query: "class:Aves recordedby:Perez" ; Times: 1
+	Query: "locality:bartolo stateprovince:&#34;chiapas&#34;" ; Times: 4
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1899 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles mappable:1" ; Times: 1
+	Query: "Oncostoma cinereigulare mappable:1" ; Times: 1
+	Query: "camptostoma imberbe stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Pipilo (08) hastissue:1" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes country:&#34;mexico&#34;" ; Times: 1
+	Query: "pinicola enucleator stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "Coragyps" ; Times: 1
+	Query: "distance(location,geopoint(47.12823,-99.24136))&lt;50000" ; Times: 2
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Acrocephalus atyphus atyphus" ; Times: 1
+	Query: "katy texas" ; Times: 1
+	Query: "columbina talpacoti" ; Times: 3
+	Query: "glaucidium brasilianum cactorum stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "mvz bird california" ; Times: 2
+	Query: "colinus parvicristatus NOT (skeleton)" ; Times: 2
+	Query: "specificepithet:atricapilla genus:poecile" ; Times: 1
+	Query: "specificepithet:zonaris genus:Streptoprocne" ; Times: 1
+	Query: "passerina cyanea (Mexico)" ; Times: 2
+	Query: "Guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:superciliaris preparations:skeleton" ; Times: 1
+	Query: "Atlapetes tricolor" ; Times: 1
+	Query: "dysithamnus tambillanus" ; Times: 1
+	Query: "colinus vntype:specimen stateprovince:&#34;Delaware&#34; institutioncode:DMNH" ; Times: 2
+	Query: "Ortalis vetula mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;Mexico&#34; year &gt;= 1940 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "athene cunicularia stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "sialia sialis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "Pachyramphus aglaiae mappable:1" ; Times: 1
+	Query: "Euphonia gouldi mappable:1" ; Times: 1
+	Query: "specificepithet:RUFICOLLIS genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "Branta bernicla basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "specificepithet:ochraceus genus:alophoixus hastissue:1" ; Times: 1
+	Query: "vireo bellii stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "channel islands" ; Times: 1
+	Query: "charadrius montanus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Ectopistes" ; Times: 1
+	Query: "5717 DMNH" ; Times: 2
+	Query: "specificepithet:canagica genus:Chen" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "genus:Haliaeetus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1921 year &lt;= 1921" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Ventura&#34;" ; Times: 1
+	Query: "Nyctiprogne leucopyga" ; Times: 2
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "specificepithet:melodia atlantica genus:Melospiza" ; Times: 1
+	Query: "colinus vntype:specimen stateprovince:&#34;Delaware&#34; AND (skeleton) institutioncode:DMNH" ; Times: 1
+	Query: "colinus vntype:specimen (virgin islands)" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Anabacerthia variegaticeps mappable:1" ; Times: 2
+	Query: "porzana atra" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Harrison and Island" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(46.23388,-89.53725))&lt;50000" ; Times: 1
+	Query: "Myioborus miniatus ballux" ; Times: 3
+	Query: "atthis heloisa" ; Times: 2
+	Query: "class:Aves continent:South America institutioncode:DMNH" ; Times: 3
+	Query: "dumetella carolinensis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:virens genus:andropadus country:&#34;nigeria&#34;" ; Times: 3
+	Query: "08 481" ; Times: 1
+	Query: "genus:Aegolius year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "Turdus infuscatus vntype:specimen" ; Times: 3
+	Query: "specificepithet:dominicus genus:Tachybaptus" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "Morococcyx erythropygus mappable:1" ; Times: 1
+	Query: "class:Aves islandgroup:&#34;Channel Islands&#34;" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "Myiarchus nuttingi mappable:1" ; Times: 1
+	Query: "cupido" ; Times: 1
+	Query: "falco peregrinus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "Columbina inca mappable:1" ; Times: 1
+	Query: "specificepithet:melanocorys genus:Calamospiza class:Aves" ; Times: 1
+	Query: "institutioncode:dmnh" ; Times: 3
+	Query: "Euphonia hirundinacea mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Callipepla douglasii mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(47.15909,-99.11388))&lt;50000" ; Times: 1
+	Query: "colinus parvicristatus" ; Times: 1
+	Query: "caffer Acrocephalus" ; Times: 1
+	Query: "calonectris borealis" ; Times: 1
+	Query: "institutioncode:dmnh 74264" ; Times: 2
+	Query: "picoides arizonae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "laing recordedby:laing" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "fossil creek arizona" ; Times: 1
+	Query: "porphyrio hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Oceanites" ; Times: 1
+	Query: "distance(location,geopoint(46.21111,-89.47825))&lt;50000" ; Times: 1
+	Query: "colinus vntype:specimen country:&#34;United States&#34; (maryland) institutioncode:DMNH" ; Times: 1
+	Query: "Cyanocompsa parellina mappable:1" ; Times: 1
+	Query: "68904" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullata genus:Cyanolyca" ; Times: 1
+	Query: "vntype:specimen specificepithet:alexandri genus:Archilochus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(47.16165,-99.10656))&lt;50000" ; Times: 3
+	Query: "r h beck" ; Times: 1
+	Query: "dendroica striata" ; Times: 1
+	Query: "class:aves locality:griffin stateprovince:&#34;alaska&#34; year &gt;= 1914 year &lt;= 1914" ; Times: 1
+	Query: "5892" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "amazona finschi" ; Times: 1
+	Query: "laterallus jamaicensis jamaicensis hastissue:1" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 1
+	Query: "Aphelocoma unicolor" ; Times: 2
+	Query: "glaucidium brasilianum stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "meleagris gallopavo" ; Times: 3
+	Query: "Euphonia affinis mappable:1" ; Times: 1
+	Query: "calothorax lucifer" ; Times: 1
+	Query: "colinus vntype:specimen stateprovince:&#34;Maryland&#34; institutioncode:DMNH" ; Times: 1
+	Query: "colinus vntype:specimen (florida*) institutioncode:DMNH" ; Times: 1
+	Query: "aphelocoma wollweberi" ; Times: 3
+	Query: "specificepithet:ustulatus genus:Catharus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Pteroglossus torquatus mappable:1" ; Times: 1
+	Query: "DMNH colinus floridanus" ; Times: 1
+	Query: "piranga bidentata" ; Times: 3
+	Query: "guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "colinus vntype:specimen institutioncode:DMNH" ; Times: 4
+	Query: "Acrocephalus caffer" ; Times: 7
+	Query: "poecile sclateri stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Vermivora peregrina Costa Rica" ; Times: 1
+	Query: "vntype:specimen genus:Oceanites hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "54854 DMNH" ; Times: 2
+	Query: "eugenes fulgens stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+	Query: "colinus institutioncode:&#34;DMNH&#34;" ; Times: 3
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "specificepithet:cucullata genus:Cyanolyca" ; Times: 1
+	Query: "Dactylortyx thoracicus mappable:1" ; Times: 1
+	Query: "Vermivora peregrina vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "tahiti Acrocephalus" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 2
+	Query: "Aphelocoma coerulescens" ; Times: 1
+	Query: "myiodynastes luteiventris stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "san roque mexico" ; Times: 3
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis enddayofyear &lt;= 1950" ; Times: 1
+	Query: "coragyps atratus" ; Times: 1
+	Query: "Anaa Acrocephalus" ; Times: 1
+	Query: "megascops trichopsis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "empidonax fulvifrons pygmaeus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "AMNH 10836" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "strix occidentalis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(47.12999,-99.25055))&lt;50000" ; Times: 1
+	Query: "specificepithet:pelagicus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:cristatus genus:colinus country:&#34;colombia&#34;" ; Times: 2
+	Query: "Geococcyx californianus mappable:1" ; Times: 1
+	Query: "dido Acrocephalus" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "ohio picoides pubescens" ; Times: 1
+	Query: "Cyanocorax cyanomelas" ; Times: 2
+	Query: "specificepithet:bilineatus genus:Pogoniulus country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "preparations:skin Ectopistes migratorius" ; Times: 1
+	Query: "sialia sialis fulva stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "specificepithet:peregrina class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Molothrus ater obscurus" ; Times: 3
+	Query: "specificepithet:ruber genus:phoenicopterus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes" ; Times: 1
+	Query: "passerina versicolor stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufipennis genus:Geositta" ; Times: 1
+	Query: "Marthas Vineyard" ; Times: 1
+	Query: "colaptes chrysoides stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Dives dives mappable:1" ; Times: 1
+	Query: "genus:Calcarius class:Aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Cibola County New Mexico" ; Times: 1
+	Query: "DR SH 1" ; Times: 1
+	Query: "specificepithet:femoralis genus:falco country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:aves (nesopsar)" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "Pheucticus ludovicianus" ; Times: 2
+	Query: "acrocephalus taiti" ; Times: 1
+	Query: "ammodramus bairdii stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "specificepithet:histrionicus genus:Histrionicus recordedby:Palsson" ; Times: 1
+	Query: "Catharus frantzii vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:Cinclodes stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "troglodytes pacificus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "chordeiles minor stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "empidonax traillii stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "DMNH 753 colinus" ; Times: 1
+	Query: "Anas andium basisofrecord:PreservedSpecimen hastissue:0" ; Times: 2
+	Query: "79965" ; Times: 1
+	Query: "Melanitta nigra basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "flaviventer family:rallidae class:aves" ; Times: 2
+	Query: "junco phaeonotus stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "thibault seychelles" ; Times: 2
+	Query: "coccothraustes vespertinus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "chaetops frenatus" ; Times: 2
+	Query: "vireo vicinior stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:haliaetus genus:Pandion" ; Times: 1
+	Query: "melospiza lincolnii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "aquila chrysaetos stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "specificepithet:borealis class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "r. h. beck" ; Times: 1
+	Query: "myiarchus tuberculifer stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:histrionicus genus:Histrionicus" ; Times: 1
+	Query: "empidonax fulvifrons stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "cyanoptila cyanomelana" ; Times: 3
+	Query: "class:Aves recordedby:Hatch" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "tachycineta bicolor" ; Times: 1
+	Query: "Niau Acrocephalus" ; Times: 1
+	Query: "catharus ustulatus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "specificepithet:Guttatus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "Aythya collaris" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves recordedby:Palsson" ; Times: 1
+	Query: "progne subis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "Ceyx rufidorsa" ; Times: 1
+	Query: "Henicorhina leucosticta country:&#34;Mexico&#34;" ; Times: 1
+	Query: "tachornis squamata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1359 download events in this period)
+Total number of records downloaded: 77634
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: United States ; Times: 46
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 10
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-30 ; Times: 5
+	Date: 2018-04-12 ; Times: 7
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 5
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-15 ; Times: 23
+	Date: 2018-04-18 ; Times: 4
+	Date: 2018-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "thamnophilus amazonicus" ; Times: 1
+	Query: "aphelocoma wollweberi" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(46.23388,-89.53725))&lt;50000" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "cranioleuca antisiensis" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(47.16165,-99.10656))&lt;50000" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "distance(location,geopoint(45.49369,-89.58571))&lt;50000" ; Times: 2
+	Query: "distance(location,geopoint(47.12999,-99.25055))&lt;50000" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:salton sea" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles mappable:1" ; Times: 1
+	Query: "Atlapetes schistaceus" ; Times: 1
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "Hemispingus superciliaris" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:atthis country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "family:Sylviidae hastypestatus:1" ; Times: 1
+	Query: "distance(location,geopoint(46.76972,-100.91535))&lt;50000" ; Times: 1
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes country:&#34;mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(47.15909,-99.11388))&lt;50000" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "distance(location,geopoint(47.12823,-99.24136))&lt;50000" ; Times: 1
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "distance(location,geopoint(45.50894,-89.58637))&lt;50000" ; Times: 1
+	Query: "basileuterus luteoviridis" ; Times: 2
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 3
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:alexandri genus:Archilochus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Atlapetes tricolor" ; Times: 1
+	Query: "Hydropsalis climacocerca" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "distance(location,geopoint(45.998269,-89.704767))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "thibault seychelles" ; Times: 1
+	Query: "distance(location,geopoint(46.21111,-89.47825))&lt;50000" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 1
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "ramphocelus nigrogularis" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;Mexico&#34; year &gt;= 1940 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "columbina talpacoti venezuela" ; Times: 1
+	Query: "institutioncode:dmnh" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "colinus vntype:specimen institutioncode:DMNH" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Ventura&#34;" ; Times: 1
+	Query: "Nyctiprogne leucopyga" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "Basileuterus coronatus" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+
+
+End of report.
