@@ -1,0 +1,139 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 789
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 55
+	Country: Netherlands ; Times: 4
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-01 ; Times: 9
+	Date: 2019-07-03 ; Times: 11
+	Date: 2019-07-02 ; Times: 26
+	Date: 2019-07-05 ; Times: 21
+	Date: 2019-07-04 ; Times: 4
+	Date: 2019-07-07 ; Times: 19
+	Date: 2019-07-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:irving" ; Times: 1
+	Query: "Sterna antillarum mappable:1" ; Times: 1
+	Query: "porzana atra" ; Times: 1
+	Query: "Sterna antillarum browni mappable:1" ; Times: 2
+	Query: "Moho nobilis" ; Times: 1
+	Query: "Polioptila californica californica mappable:1" ; Times: 4
+	Query: "Anthony AND Guadalupe Island" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:nigriceps genus:Turdus class:Aves" ; Times: 2
+	Query: "12108" ; Times: 1
+	Query: "gbifdatasetid:c21cd435-718a-4069-b503-776bf0e22b96" ; Times: 1
+	Query: "specificepithet:molitor genus:batis country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "specificepithet:gundlachii genus:Chordeiles" ; Times: 1
+	Query: "quiscalus mexicanus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "chordeiles gundlachii" ; Times: 2
+	Query: "vntype:specimen specificepithet:capensis genus:batis" ; Times: 2
+	Query: "athene cunicularia" ; Times: 1
+	Query: "specificepithet:hyperboreus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Motacilla flava" ; Times: 2
+	Query: "vntype:specimen specificepithet:flammulatus genus:Hemitriccus class:Aves (skin)" ; Times: 1
+	Query: "vntype:specimen specificepithet:concreta genus:platysteira" ; Times: 2
+	Query: "genus:aerodramus stateprovince:&#34;sabah&#34; country:&#34;malaysia&#34;" ; Times: 1
+	Query: "0671" ; Times: 1
+	Query: "Sapayoa aenigma" ; Times: 1
+	Query: "28317" ; Times: 2
+	Query: "Eremophila alpestris strigata mappable:1" ; Times: 5
+	Query: "vntype:specimen specificepithet:senegalensis genus:batis" ; Times: 1
+	Query: "gbifdatasetid:c21cd435-718a-4069-b503-776bf0e22b96 procellariiformes" ; Times: 3
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "vntype:specimen genus:Coragyps" ; Times: 2
+	Query: "specificepithet:bicknelli genus:Catharus institutioncode:DMNH" ; Times: 1
+	Query: "cistothorus marianae" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:gujanensis genus:Cyclarhis class:Aves" ; Times: 1
+	Query: "thryothorus berlandieri" ; Times: 1
+	Query: "ypm 2021" ; Times: 1
+	Query: "cistothorus tolucensis" ; Times: 2
+	Query: "Polioptila californica mappable:1" ; Times: 4
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "lalage tenebrosa" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:forcipata genus:Macropsalis class:Aves" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "thryothorus tropicalis" ; Times: 2
+	Query: "Dendrocincla" ; Times: 1
+	Query: "specificepithet:senegalensis genus:batis" ; Times: 1
+	Query: "7044" ; Times: 1
+	Query: "ficedula dumetoria" ; Times: 1
+	Query: "orthotomus viridicollis" ; Times: 1
+	Query: "specificepithet:obsoletus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "specificepithet:obsoletus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:jamesoni genus:platysteira" ; Times: 2
+	Query: "25916 DMNH" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "Guadalupe Island AND Beck" ; Times: 1
+	Query: "lalage keppeli" ; Times: 2
+	Query: "Amazona" ; Times: 1
+	Query: "76722" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 985 download events in this period)
+Total number of records downloaded: 379
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-02 ; Times: 12
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Patagona gigas" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:aequinoctialis genus:Geothlypis class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:subcristata genus:Serpophaga class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:flammulatus genus:Hemitriccus class:Aves (skin)" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:fasciatus genus:Myiophobus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:gujanensis genus:Cyclarhis class:Aves" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:melanonota genus:Pipraeidea class:Aves" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:bonariensis genus:Thraupis class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:sayaca genus:Thraupis class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:nigriceps genus:Turdus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:euleri genus:Lathrotriccus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:caerulescens genus:Thamnophilus class:Aves" ; Times: 1
+
+
+End of report.
