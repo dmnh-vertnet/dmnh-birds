@@ -1,0 +1,443 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 785
+Number of records retrieved in searches: 22985
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Turkey ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Peru ; Times: 24
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Paraguay ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Denmark ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: United States ; Times: 685
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 17
+	Date: 2019-11-18 ; Times: 11
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 71
+	Date: 2019-11-14 ; Times: 73
+	Date: 2019-11-17 ; Times: 6
+	Date: 2019-11-16 ; Times: 81
+	Date: 2019-11-11 ; Times: 26
+	Date: 2019-11-10 ; Times: 16
+	Date: 2019-11-13 ; Times: 18
+	Date: 2019-11-12 ; Times: 7
+	Date: 2019-11-08 ; Times: 66
+	Date: 2019-11-09 ; Times: 59
+	Date: 2019-11-06 ; Times: 63
+	Date: 2019-11-07 ; Times: 127
+	Date: 2019-11-20 ; Times: 7
+	Date: 2019-11-21 ; Times: 8
+	Date: 2019-11-22 ; Times: 12
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-25 ; Times: 9
+	Date: 2019-11-26 ; Times: 21
+	Date: 2019-11-27 ; Times: 29
+	Date: 2019-11-28 ; Times: 7
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-04 ; Times: 14
+	Date: 2019-11-05 ; Times: 11
+	Date: 2019-11-02 ; Times: 7
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-01 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Gorsachius melanolophus" ; Times: 1
+	Query: "Charadrius melodus 2008" ; Times: 4
+	Query: "54721" ; Times: 1
+	Query: "Charadrius melodus 2009" ; Times: 4
+	Query: "52778" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Charadrius melodus 2002" ; Times: 4
+	Query: "Charadrius melodus 2007" ; Times: 4
+	Query: "Polioptila californica californica 2012" ; Times: 4
+	Query: "Polioptila californica californica 2011" ; Times: 4
+	Query: "Polioptila californica californica 2010" ; Times: 4
+	Query: "Coccyzus americanus 1990" ; Times: 4
+	Query: "Polioptila californica californica 2015" ; Times: 4
+	Query: "haematopus unicolor" ; Times: 3
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Polioptila californica californica 2019" ; Times: 4
+	Query: "53648" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 4
+	Query: "falco coahuila mexico" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1988" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+	Query: "distance(location,geopoint(40.7463637403232,-105.199478116534))&lt;602077.435354243" ; Times: 28
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.5766994218309,-81.130110132586))&lt;306658.662473966" ; Times: 4
+	Query: "67280" ; Times: 1
+	Query: "kirtland" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Tyrannus melancholicus" ; Times: 2
+	Query: "distance(location,geopoint(34.3968331473169,-119.471169108105))&lt;269545.637102603" ; Times: 3
+	Query: "53812" ; Times: 1
+	Query: "Eremophila alpestris strigata 2008" ; Times: 4
+	Query: "56084" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "Eremophila alpestris strigata 2009" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 1
+	Query: "06534" ; Times: 1
+	Query: "Mycteria americana 2019" ; Times: 4
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "genus:ortygospiza class:aves year &gt;= 1980" ; Times: 1
+	Query: "phasianus" ; Times: 3
+	Query: "Vireo bellii pusillus 2010" ; Times: 3
+	Query: "Vireo bellii pusillus 2012" ; Times: 3
+	Query: "Polioptila californica californica 2003" ; Times: 4
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+	Query: "camiguin loriculus" ; Times: 1
+	Query: "specificepithet:acuticaudata family:Psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Polioptila californica californica 2009" ; Times: 4
+	Query: "key biscayne" ; Times: 2
+	Query: "genus:odontophorus" ; Times: 1
+	Query: "mexico fauna" ; Times: 1
+	Query: "genus:Poospiza country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "biogeo" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "Mycteria americana 2013" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT Stephens" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 15
+	Query: "Anas diazi" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 4
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "vntype:specimen genus:Diglossa stateprovince:&#34;La Paz&#34; country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "DMNH Merops philippinus" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "vini" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "junco hyemalis mearnsi" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:conirostris genus:Arremonops country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 AND Rossem" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 2
+	Query: "piranga erythrocephala" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 8
+	Query: "Passerina cyanea x amoena" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Brachyramphus marmoratus 2007" ; Times: 5
+	Query: "Haida Gwaii" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT Sechrist NOT Stephens" ; Times: 1
+	Query: "Rheidae" ; Times: 1
+	Query: "Brachyramphus marmoratus 2009" ; Times: 5
+	Query: "nonnula brunnea" ; Times: 14
+	Query: "24573" ; Times: 1
+	Query: "Aphelocoma coerulescens 2019" ; Times: 6
+	Query: "pheucticus skin washington" ; Times: 1
+	Query: "Vireo bellii pusillus 2008" ; Times: 3
+	Query: "Buteo platypterus mexico" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "Coccyzus americanus 1998" ; Times: 4
+	Query: "class:Aves continent:Europe institutioncode:DMNH" ; Times: 1
+	Query: "Coccyzus americanus 1994" ; Times: 4
+	Query: "Coccyzus americanus 1995" ; Times: 4
+	Query: "Coccyzus americanus 1992" ; Times: 4
+	Query: "Coccyzus americanus 1993" ; Times: 4
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "locality:Arriaga stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:Kirtlandii country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode:dmnh new zealand" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "Buteo platypterus AND Island" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "Charadrius melodus 2010" ; Times: 4
+	Query: "20532" ; Times: 1
+	Query: "Aphelocoma coerulescens 1974" ; Times: 7
+	Query: "25328" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "DMNH Harpactes" ; Times: 2
+	Query: "Aphelocoma coerulescens 2003" ; Times: 6
+	Query: "Aphelocoma coerulescens 2004" ; Times: 6
+	Query: "bensoni vntype:specimen class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma coerulescens 2007" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey" ; Times: 1
+	Query: "Aphelocoma coerulescens 2009" ; Times: 6
+	Query: "minnesota palmarum palmarum" ; Times: 2
+	Query: "DMNH 67057" ; Times: 1
+	Query: "Michoacán" ; Times: 1
+	Query: "Coccyzus americanus 1981" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados" ; Times: 3
+	Query: "Coccyzus americanus 1983" ; Times: 4
+	Query: "Coccyzus americanus 1982" ; Times: 4
+	Query: "Coccyzus americanus 1985" ; Times: 4
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "Coccyzus americanus 1986" ; Times: 4
+	Query: "Coccyzus americanus 1989" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "Eremophila alpestris strigata 2019" ; Times: 4
+	Query: "Phasianus" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon AND Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 78
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "aerodramus fuciphagus" ; Times: 1
+	Query: "18905" ; Times: 3
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skel hassex:1" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "new mexico junco phaeonotus" ; Times: 1
+	Query: "Rallus elegans vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 4
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "58676" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914" ; Times: 1
+	Query: "recordnumber:0245" ; Times: 1
+	Query: "molothrus ater obscurus" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "cercomacra" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "Aphelocoma coerulescens 2014" ; Times: 6
+	Query: "DMNH Merops oreobates" ; Times: 2
+	Query: "60015" ; Times: 1
+	Query: "Falco+peregrinus" ; Times: 1
+	Query: "rea americana" ; Times: 1
+	Query: "Accipiter gularis" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Brachyramphus marmoratus 2019" ; Times: 5
+	Query: "43136" ; Times: 1
+	Query: "Aphelocoma coerulescens 1972" ; Times: 6
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "starnoenas" ; Times: 1
+	Query: "Aphelocoma coerulescens 1979" ; Times: 6
+	Query: "calidris canutus" ; Times: 1
+	Query: "Brachyramphus marmoratus 2012" ; Times: 5
+	Query: "Thinocorus orbignyianus" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1955" ; Times: 1
+	Query: "specificepithet:asio genus:megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:dmnh" ; Times: 1
+	Query: "genus:cinclus stateprovince:&#34;south dakota&#34; year &gt;= 1945" ; Times: 1
+	Query: "Molothrus ater obscurus mappable:1" ; Times: 8
+	Query: "Catharus fuscescens year &gt; 1990" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "54056" ; Times: 1
+	Query: "06815" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "distance(location,geopoint(40.7463637403232,-105.116497784516))&lt;594922.666421315" ; Times: 4
+	Query: "D. McLeod" ; Times: 1
+	Query: "Loriculus camiguin" ; Times: 1
+	Query: "Coccyzus americanus 1980" ; Times: 4
+	Query: "specificepithet:multicolor country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus 1989" ; Times: 5
+	Query: "Coccyzus americanus 2004" ; Times: 4
+	Query: "35676" ; Times: 1
+	Query: "vntype:specimen specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 2
+	Query: "armadillo" ; Times: 2
+	Query: "16053" ; Times: 1
+	Query: "laing" ; Times: 1
+	Query: "monarcha castaneiventris country:&#34;Solomon Islands&#34;" ; Times: 2
+	Query: "80642" ; Times: 1
+	Query: "Aratinga" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 3
+	Query: "Brachyramphus marmoratus 2002" ; Times: 5
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "petrochelidon pyrrhonota" ; Times: 1
+	Query: "wing vntype:specimen family:trochilidae preparations:wing" ; Times: 2
+	Query: "Falco sparverius vntype:specimen country:&#34;Cuba&#34;" ; Times: 2
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "Coccyzus americanus 2012" ; Times: 4
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "Vireo bellii pusillus 2019" ; Times: 3
+	Query: "Coccyzus americanus 2011" ; Times: 4
+	Query: "Aphelocoma coerulescens 2010" ; Times: 6
+	Query: "distance(location,geopoint(38.245377204844,-107.45914695031))&lt;521019.392285124" ; Times: 4
+	Query: "Coccyzus americanus 2019" ; Times: 8
+	Query: "Coccyzus americanus 2009" ; Times: 4
+	Query: "geothlypis modesta" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "Brachyramphus marmoratus 2005" ; Times: 5
+	Query: "02335" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "Coccyzus americanus 2000" ; Times: 4
+	Query: "Coccyzus americanus 2003" ; Times: 4
+	Query: "16051" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "specificepithet:aestiva genus:amazona family:Psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Phasianus Colchicus" ; Times: 5
+	Query: "35568" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:Skin institutioncode:DMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rallus vntype:specimen stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "morus bassanus" ; Times: 1
+	Query: "specificepithet:CORONATA genus:pAROARIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "04666" ; Times: 1
+	Query: "Thamnistes" ; Times: 1
+	Query: "vntype:specimen genus:Diglossa stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "stateprovince:&#34;coahuila&#34; country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Brachyramphus marmoratus 2010" ; Times: 5
+	Query: "class:aves locality:newport news" ; Times: 1
+	Query: "class:aves recordedby:beasley" ; Times: 1
+	Query: "Prosopeia personata" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "passerina cyanea x amoena" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "distance(location,geopoint(39.1862197127719,-105.321721889218))&lt;125847.17822455" ; Times: 2
+	Query: "Vireo bellii pusillus 2009" ; Times: 3
+	Query: "Vireo gilvus alberta" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "53626" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "61132" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "Charadrius melodus 2019" ; Times: 4
+	Query: "Brachyramphus marmoratus 2008" ; Times: 5
+	Query: "Vireo gilvus brewsteri" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 2
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "Aphelocoma coerulescens 2015" ; Times: 4
+	Query: "45337" ; Times: 1
+	Query: "heliangelus regalis" ; Times: 9
+	Query: "ubc" ; Times: 1
+	Query: "Ardea herodias" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "johannae" ; Times: 1
+	Query: "specificepithet:phasianellus" ; Times: 1
+	Query: "Psaltriparus Oregon. Jackson County." ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Nonnula brunnea" ; Times: 10
+	Query: "genus:Trogon" ; Times: 1
+	Query: "10565 Mexico" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 3
+	Query: "Spizella pusilla" ; Times: 1
+	Query: "Passerina cyanea x amoena vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:cinclus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Pandion haliaetus year &gt; 1990" ; Times: 1
+	Query: "Heliangelus regalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mycteria americana 2008" ; Times: 4
+	Query: "specificepithet:capitata genus:Paroaria country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT 1913 NOT Sechrist NOT Stephens" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 5
+	Query: "breast" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1367 download events in this period)
+Total number of records downloaded: 12227
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-14 ; Times: 3
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-06 ; Times: 20
+	Date: 2019-11-07 ; Times: 2
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vini" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 1
+	Query: "Diglossa Carriker" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "order:Apodiformes" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "order:Caprimulgiformes" ; Times: 2
+	Query: "India bird class:aves country:&#34;India&#34; preparations:Skin institutioncode:DMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Diglossa stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "genus:ortygospiza class:aves year &gt;= 1980" ; Times: 1
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 2
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:thayeri genus:Larus country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "locality:Valladares stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 1
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "vntype:specimen genus:Diglossa stateprovince:&#34;La Paz&#34; country:&#34;Bolivia&#34;" ; Times: 1
+
+
+End of report.
