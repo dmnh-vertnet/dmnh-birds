@@ -1,0 +1,487 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 478
+Number of records retrieved in searches: 3811
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 29
+	Country: Brazil ; Times: 6
+	Country: Ireland ; Times: 15
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 8
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 8
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Philippines ; Times: 16
+	Country: United States ; Times: 299
+	Country: Mexico ; Times: 37
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 22
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 6
+	Date: 2020-05-24 ; Times: 10
+	Date: 2020-05-27 ; Times: 27
+	Date: 2020-05-26 ; Times: 7
+	Date: 2020-05-21 ; Times: 4
+	Date: 2020-05-20 ; Times: 2
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-29 ; Times: 5
+	Date: 2020-05-28 ; Times: 9
+	Date: 2020-05-18 ; Times: 10
+	Date: 2020-05-19 ; Times: 8
+	Date: 2020-05-10 ; Times: 11
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 3
+	Date: 2020-05-13 ; Times: 15
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 20
+	Date: 2020-05-16 ; Times: 11
+	Date: 2020-05-17 ; Times: 18
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-31 ; Times: 27
+	Date: 2020-05-09 ; Times: 10
+	Date: 2020-05-08 ; Times: 12
+	Date: 2020-05-07 ; Times: 133
+	Date: 2020-05-06 ; Times: 35
+	Date: 2020-05-05 ; Times: 5
+	Date: 2020-05-04 ; Times: 19
+	Date: 2020-05-03 ; Times: 5
+	Date: 2020-05-02 ; Times: 17
+	Date: 2020-05-01 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:adult sex:female" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "Eulampis holosericeus" ; Times: 1
+	Query: "3611" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "specificepithet:minutilla genus:Calidris country:&#34;Peru&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas sex:male" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "manacus manacus" ; Times: 2
+	Query: "Presque Isle" ; Times: 2
+	Query: "Rollo Beck" ; Times: 5
+	Query: "specificepithet:carolinensis genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Skin-50689" ; Times: 1
+	Query: "Anas rubripes sex:male" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 2
+	Query: "vntype:specimen specificepithet:sandvicensis genus:Sterna" ; Times: 2
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:female" ; Times: 1
+	Query: "06197" ; Times: 2
+	Query: "specificepithet:acuta genus:Anas sex:female" ; Times: 1
+	Query: "specificepithet:ferruginea genus:muscicapa country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:mcgregori genus:coracina country:&#34;philippines&#34;" ; Times: 16
+	Query: "Syma torotoro" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus sex:female" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "aves TRUE" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 2
+	Query: "34415" ; Times: 1
+	Query: "specificepithet:nigrocapitata genus:stachyris country:&#34;philippines&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus sex:male" ; Times: 1
+	Query: "Todiramphus winchelli" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 3
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:male" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "cyornis herioti" ; Times: 3
+	Query: "Tyto alba ws OR wingspan OR wing+span" ; Times: 8
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:male" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "specificepithet:dauurica genus:muscicapa country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "Xenospiza baileyi" ; Times: 5
+	Query: "class:Aves country:&#34;Mexico&#34; institutioncode:DMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:maxima genus:Sterna" ; Times: 1
+	Query: "sittasomus jaliscensis" ; Times: 2
+	Query: "&#34;Anas rubripes&#34; sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "Halcyon OR Todiramphus Tuamotu Arch." ; Times: 1
+	Query: "genus:Sterna class:Aves country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "aves de chihuahua mexico" ; Times: 9
+	Query: "specificepithet:enca genus:corvus country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "albigularis" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas sex:female" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "Amazona ochrocephala stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus sex:female" ; Times: 1
+	Query: "eurylaimus steerii" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:female" ; Times: 1
+	Query: "lalage keppeli" ; Times: 3
+	Query: "recordedby:Hess" ; Times: 3
+	Query: "44752" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "(gutzke)" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella class:aves stateprovince:&#34;california&#34; year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas diazi lifestage:adult sex:female" ; Times: 2
+	Query: "Anas diazi lifestage:juvenile sex:female" ; Times: 2
+	Query: "&#34;Anas rubripes&#34; lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "family:phasianidae class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 2
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "brachypteryx mindorensis" ; Times: 1
+	Query: "eurylaimus steerii Siargao" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:female" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:carolinensis genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "Todiramphus OR Halcyon chloris OR sacer &#34;Kadavu&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo sex:female" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 2
+	Query: "specificepithet:spinosa genus:Jacana lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:adult sex:male" ; Times: 1
+	Query: "Halcyon OR Todiramphus Tuamotu" ; Times: 1
+	Query: "recordnumber:26196" ; Times: 2
+	Query: "1237" ; Times: 1
+	Query: "Buteo ws OR wingspan OR wing+span" ; Times: 3
+	Query: "79663" ; Times: 2
+	Query: "eurylaimus steerii Dinagat" ; Times: 1
+	Query: "Anas diazi lifestage:adult sex:male" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "&#34;Anas rubripes&#34; lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:westermanni country:&#34;philippines&#34;" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 3
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:male" ; Times: 1
+	Query: "dysithamnus tambillanus" ; Times: 2
+	Query: "piaya cayana" ; Times: 1
+	Query: "Halcyon OR Todiramphus Society" ; Times: 2
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas sex:male" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Texas Arenaria interpres" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "vntype:specimen genus:buteo year &gt;= 1990 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:male" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "Trogonidae institutioncode:DMNH" ; Times: 1
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "Halcyon Tutuila" ; Times: 2
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:female" ; Times: 1
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Apus pacificus" ; Times: 2
+	Query: "16883" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:female" ; Times: 1
+	Query: "9738" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Charadrius nivosus AND (United)" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 2
+	Query: "recordnumber:26196 institutioncode:DMNH" ; Times: 3
+	Query: "specificepithet:capitalis genus:stachyris country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 2
+	Query: "(zippel)" ; Times: 1
+	Query: "Halcyon OR Todiramphus Niau" ; Times: 2
+	Query: "quiscalus minnesota" ; Times: 2
+	Query: "specificepithet:acuta genus:Anas sex:male" ; Times: 1
+	Query: "Todiramphus godeffroyi" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:female" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 2
+	Query: "devil" ; Times: 1
+	Query: "AMNH 4821" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "Halcyon OR Todiramphus cinnamominus" ; Times: 1
+	Query: "Anas rubripes" ; Times: 6
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus sex:female" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Todiramphus OR Halcyon chloris OR sacer &#34;Futuna&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas sex:female" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "Armadillo" ; Times: 2
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "6363" ; Times: 2
+	Query: "specificepithet:cinerascens genus:Myiarchus class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "(polly)" ; Times: 1
+	Query: "specificepithet:aurifrons genus:melanerpes stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "specificepithet:proprium genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:male" ; Times: 1
+	Query: "Rollo Beck institutioncode:DMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:female" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 7
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus sex:male" ; Times: 1
+	Query: "county:&#34;Torrance&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "(manacus manacus )" ; Times: 2
+	Query: "catalognumber:9875 institutioncode:DMNH" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:longicauda genus:Bartramia" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:adult sex:female" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo sex:male" ; Times: 1
+	Query: "gutzke" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "Texas Zenaida asiatica" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Texas Dendrocygna" ; Times: 2
+	Query: "Halcyon OR Todiramphus godeffroyi" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:herioti genus:cyornis country:&#34;philippines&#34;" ; Times: 4
+	Query: "Halcyon OR Todiramphus Tahiti" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "aves de mexico" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "Charadrius nivosus" ; Times: 7
+	Query: "stateprovince:&#34;guerrero&#34; country:&#34;mexico&#34; year &gt;= 1963 year &lt;= 1963 month &gt;= 12 month &lt;= 12 institutioncode:DMNH basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "stateprovince:&#34;guerrero&#34; country:&#34;mexico&#34; year &gt;= 1963 year &lt;= 1963 month &gt;= 12 month &lt;= 12 institutioncode:DMNH" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 2
+	Query: "alcedinidae Niau" ; Times: 2
+	Query: "38633" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "country:&#34;mexico&#34; year &gt;= 1963 year &lt;= 1963 month &gt;= 12 month &lt;= 12 institutioncode:DMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:male" ; Times: 1
+	Query: "Texas Dendrocygna DMNH" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "genus:colinus stateprovince:&#34;tennessee&#34;" ; Times: 8
+	Query: "specificepithet:bellii genus:Vireo sex:female" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "Icterus Salvinii Costa Rica" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:female" ; Times: 1
+	Query: "Alcedo hercules" ; Times: 2
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 4
+	Query: "Halcyon OR Todiramphus Moorea" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:male" ; Times: 1
+	Query: "peru class:aves stateprovince:&#34;arequipa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "trogon collaris" ; Times: 1
+	Query: "Texas Limnodromus scolopaceus" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "Buteo jamaicensis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Agamia agami" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigripes genus:Phoebastria" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Xiphocolaptes emigrans" ; Times: 1
+	Query: "Texas AVES AND (Birds)" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:male" ; Times: 2
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:cayana genus:piaya stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:adult sex:female" ; Times: 1
+	Query: "Chiroxiphia" ; Times: 1
+	Query: "251327" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "Icterus Salvinii" ; Times: 1
+	Query: "AMNH 347825" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:female" ; Times: 1
+	Query: "NUM" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 7
+	Query: "specificepithet:spinosa genus:Jacana lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:female" ; Times: 1
+	Query: "locality:porter stateprovince:&#34;delaware&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:rhyacornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "hess" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 2
+	Query: "39437 bird" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "79557" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:female" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "specificepithet:Canadensis genus:Branta (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34; OR &#34;adult&#34; OR &#34;mature&#34; OR &#34;ad&#34;)" ; Times: 2
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Aimophila stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1106 download events in this period)
+Total number of records downloaded: 39129
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 37
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-13 ; Times: 8
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 6
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-06 ; Times: 10
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "pipilo nebraska" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "class:Aves" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; institutioncode:DMNH" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rollo Beck" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Garbe basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
