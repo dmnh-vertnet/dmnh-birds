@@ -1,0 +1,406 @@
+Report for Institution Code DMNH, Resource dmnh_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 360
+Number of records retrieved in searches: 4377
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 228
+	Country: Netherlands ; Times: 4
+	Country: Honduras ; Times: 1
+	Country: Peru ; Times: 14
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Panama ; Times: 1
+	Country: Cuba ; Times: 6
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 22
+	Country: Germany ; Times: 10
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 9
+	Country: Argentina ; Times: 2
+	Country: Guadeloupe ; Times: 2
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 13
+	Date: 2020-01-03 ; Times: 23
+	Date: 2020-01-02 ; Times: 14
+	Date: 2020-01-01 ; Times: 27
+	Date: 2020-01-07 ; Times: 4
+	Date: 2020-01-06 ; Times: 7
+	Date: 2020-01-05 ; Times: 4
+	Date: 2020-01-04 ; Times: 4
+	Date: 2020-01-21 ; Times: 9
+	Date: 2020-01-20 ; Times: 12
+	Date: 2020-01-09 ; Times: 24
+	Date: 2020-01-08 ; Times: 12
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 21
+	Date: 2020-01-27 ; Times: 10
+	Date: 2020-01-26 ; Times: 4
+	Date: 2020-01-29 ; Times: 10
+	Date: 2020-01-28 ; Times: 17
+	Date: 2020-01-18 ; Times: 8
+	Date: 2020-01-19 ; Times: 6
+	Date: 2020-01-23 ; Times: 32
+	Date: 2020-01-14 ; Times: 26
+	Date: 2020-01-15 ; Times: 16
+	Date: 2020-01-30 ; Times: 10
+	Date: 2020-01-17 ; Times: 5
+	Date: 2020-01-10 ; Times: 10
+	Date: 2020-01-11 ; Times: 5
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 14
+	Date: 2020-01-31 ; Times: 7
+	Date: 2020-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:Griepentrog basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 2
+	Query: "DMNH Merops pusillus meridionalis" ; Times: 1
+	Query: "class:Aves stateprovince:Nevada" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "Quiscalus quiscula vntype:specimen institutioncode:DMNH" ; Times: 1
+	Query: "18975" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyperythra genus:Ficedula class:Aves hastissue:1" ; Times: 1
+	Query: "DMNH picus" ; Times: 2
+	Query: "39813" ; Times: 1
+	Query: "DMNH 59358" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter" ; Times: 3
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "&#34;Empidonax traillii&#34;" ; Times: 1
+	Query: "piculus rubiginosus" ; Times: 1
+	Query: "Thryomanes AND San Martin" ; Times: 1
+	Query: "family:Emberizidae country:Mexico" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "Quiscalus quiscula Maryland vntype:specimen institutioncode:DMNH" ; Times: 1
+	Query: "semple" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:bailey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "recordedby:hunt" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "DMNH-21886" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "class:aves county:&#34;humboldt&#34; recordedby:smith franklin" ; Times: 1
+	Query: "DMNH Dinopium javanense everetti" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:DMNH" ; Times: 1
+	Query: "DMNH-21888" ; Times: 2
+	Query: "52543" ; Times: 1
+	Query: "DMNH Picus mineaceus" ; Times: 1
+	Query: "sclerurus peruvianus" ; Times: 3
+	Query: "vntype:specimen order:procellariiformes institutioncode:DMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "DMNH-21911" ; Times: 2
+	Query: "specificepithet:fasciata genus:rallina country:&#34;philippines&#34;" ; Times: 2
+	Query: "family:parulidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "DMNH Picoides arcticus" ; Times: 1
+	Query: "DMNH Merops pusillus" ; Times: 1
+	Query: "vntype:specimen county:&#34;refugio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 6
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:DMNH" ; Times: 1
+	Query: "Baeza-Lago Agrio Road sibley" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "Geositta cunicularia" ; Times: 1
+	Query: "KU vireo bellii" ; Times: 2
+	Query: "Vireo plumbeus montanus" ; Times: 1
+	Query: "tissue vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:DMNH" ; Times: 1
+	Query: "locality:Saybrook stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "turdus mayonensis" ; Times: 8
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:dowell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Icterus prosthemelas vntype:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:platycercus genus:selasphorus" ; Times: 1
+	Query: "DMNH Picus mentalis" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigriceps genus:Stachyris class:Aves hastissue:1" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:DMNH" ; Times: 2
+	Query: "skin-66297" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:a. w. anthony basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 7
+	Query: "specificepithet:asio genus:megascops institutioncode:DMNH" ; Times: 2
+	Query: "Henicorhina" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 2
+	Query: "aves country:mexico hastissue:1" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 4
+	Query: "DMNH merops philippinus" ; Times: 1
+	Query: "DMNH merops" ; Times: 3
+	Query: "genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "vireo bellii kansas" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "DMNH-21870" ; Times: 1
+	Query: "DMNH-21871" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: "moho nobilis" ; Times: 2
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "habia rubica" ; Times: 2
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;ecuador&#34;" ; Times: 1
+	Query: "15-2654" ; Times: 1
+	Query: "preparations:skel" ; Times: 1
+	Query: "DMNH megalaima" ; Times: 2
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "DMNH Colaptes campestroides" ; Times: 1
+	Query: "catalognumber:76433 institutioncode:DMNH" ; Times: 1
+	Query: "DMNH Colaptes chrysoides mearnsi" ; Times: 1
+	Query: "Myiarchus crinitus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus hastissue:1" ; Times: 1
+	Query: "toxostoma dumosum" ; Times: 1
+	Query: "DMNH Chrysocolaptes xanthocephalus" ; Times: 1
+	Query: "AMNH 12242" ; Times: 1
+	Query: "mimus" ; Times: 1
+	Query: "Sphyrapicus ruber" ; Times: 1
+	Query: "Polioptila nelsoni vntype:specimen" ; Times: 2
+	Query: "DMNH-21869" ; Times: 1
+	Query: "DMNH Merops philippinus" ; Times: 2
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochraceus genus:Alophoixus class:Aves hastissue:1" ; Times: 1
+	Query: "piaya cayana" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 4
+	Query: "county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34; (l)" ; Times: 1
+	Query: "DMNH-21909" ; Times: 1
+	Query: "Melanitta perspicillata" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; institutioncode:DMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma class:Aves stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves recordedby:smith franklin" ; Times: 1
+	Query: "Picus mentalis humei" ; Times: 2
+	Query: "34814" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:jewett basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "41501" ; Times: 1
+	Query: "8743" ; Times: 1
+	Query: "DMNH colaptes campestris" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:DMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Rhipidura class:Aves hastissue:1" ; Times: 1
+	Query: "O.58135" ; Times: 1
+	Query: "DMNH Merops oreobates" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 3
+	Query: "locality:WCTV" ; Times: 1
+	Query: "DMNH Colaptes campestris" ; Times: 2
+	Query: "48995" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "DMNH-21910" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "mcmillan" ; Times: 1
+	Query: "ucla" ; Times: 1
+	Query: "Oceanites oceanicus hastissue:1" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "picoides arizonae" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:anthony basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phylloscopus vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melanolophus genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;bolivia&#34;" ; Times: 2
+	Query: "DMNH C" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "specificepithet:similis genus:anthus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Tyrannus savana skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus month &gt;= 5 month &lt;= 9 hastissue:1" ; Times: 1
+	Query: "Phalaropus minnesota" ; Times: 1
+	Query: "DMNH Chrysocolaptes" ; Times: 2
+	Query: "accipiter bicolor" ; Times: 1
+	Query: "9623" ; Times: 1
+	Query: "Picus mentalis" ; Times: 2
+	Query: "cathartes burrovianus" ; Times: 1
+	Query: "27833 aves" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "Hylocharis leucotis" ; Times: 5
+	Query: "35114" ; Times: 2
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 2
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "specificepithet:atrocaudata genus:Terpsiphone" ; Times: 2
+	Query: "Ragionieri" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "Eulampis jugularis" ; Times: 2
+	Query: "county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "DMNH Colaptes auratus cafer" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "pterodroma cahow vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "strix varia" ; Times: 2
+	Query: "oceanites oceanicus" ; Times: 2
+	Query: "3868" ; Times: 1
+	Query: "turdus poliocephalus mayonensis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:twomey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "Troglodytes rufociliatus vntype:specimen stateprovince:&#34;Chiapas&#34;" ; Times: 2
+	Query: "specificepithet:indicus genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 3
+	Query: "specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "ectopistes" ; Times: 2
+	Query: "54378" ; Times: 1
+	Query: "DMNH dinopium" ; Times: 1
+	Query: "Patagioenas squamosa" ; Times: 2
+	Query: "sterna minnesota" ; Times: 1
+	Query: "john semple" ; Times: 2
+	Query: "mimus polyglottos" ; Times: 3
+	Query: "colinus" ; Times: 1
+	Query: "Thryomanes AND Guadalupe" ; Times: 1
+	Query: "claravis" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:psarocolius" ; Times: 2
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 7
+	Query: "guadalajara" ; Times: 2
+	Query: "41874" ; Times: 1
+	Query: "Xanthocephalus xanthocephalus" ; Times: 7
+	Query: "petechia petechia skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Sao Paulo&#34; country:&#34;Brazil&#34; institutioncode:DMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "haematopus leucopodus" ; Times: 1
+	Query: "californicus minnesota" ; Times: 2
+	Query: "vntype:specimen specificepithet:tridactyla genus:rissa class:aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "62875" ; Times: 1
+	Query: "Gabrielson" ; Times: 1
+	Query: "vntype:specimen specificepithet:mitratus genus:Garrulax class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "DMNH Picus" ; Times: 2
+	Query: "Guadalupe AND Thryomanes" ; Times: 1
+	Query: "Polioptila caerulea vntype:specimen stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "aves parulidae goldmani" ; Times: 1
+	Query: "vntype:specimen genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Mexico Spizella passerina skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "numenius borealis" ; Times: 4
+	Query: "vntype:specimen specificepithet:cela genus:cacicus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "Phalaenoptilus" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Skin" ; Times: 1
+	Query: "39597" ; Times: 2
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:peck basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "specificepithet:eurhythmus genus:ixobrychus country:&#34;philippines&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:burleigh basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34; (d)" ; Times: 1
+	Query: "institutioncode:dmnh" ; Times: 1
+	Query: "Henicorhina leucoptera" ; Times: 1
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "DMNH Chrysocolaptes lucidus montanus" ; Times: 1
+	Query: "chaetops" ; Times: 1
+	Query: "DMNH chrysocolaptes" ; Times: 1
+	Query: "specificepithet:americana genus:grus" ; Times: 1
+	Query: "sclerurus caudacutus" ; Times: 2
+	Query: "Otus sunia" ; Times: 1
+	Query: "caribou" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1584 download events in this period)
+Total number of records downloaded: 27714
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Denmark ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: France ; Times: 10
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 11
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-25 ; Times: 5
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-27 ; Times: 7
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:DMNH" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Chiapas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:White" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oaxaca&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Bates" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "&#34;Sturnus vulgaris&#34;" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Heinrich" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Rand" ; Times: 1
+	Query: "class:aves county:&#34;humboldt&#34; recordedby:smith franklin" ; Times: 2
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "turdus mayonensis" ; Times: 1
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Thamnophilus amazonicus" ; Times: 1
+
+
+End of report.
